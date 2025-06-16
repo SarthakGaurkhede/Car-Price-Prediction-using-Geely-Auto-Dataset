@@ -30,10 +30,3 @@ You can explore the dataset using the notebook `1_Exploratory_Data_Analysis.ipyn
 
 ---
 
-## ⚙️ Installation
-
-To set up and run the project locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/Car-Price-Prediction-using-Geely-Auto-Dataset.git
